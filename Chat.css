@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+	font-family: Tahoma;
+	font-size: 13px;
+	background-color: #01DF01;
+}
+
+h1 {
+	color: white;
+	text-align: left;
+}
+
+input#messageBox {
+	width: 400px;
+}
